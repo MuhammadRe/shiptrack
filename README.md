@@ -29,3 +29,6 @@ I built ShipTrack to deepen my Vue 3 knowledge alongside my existing React, Next
 npm install
 npm run dev
 \`\`\`
+
+## Deployed app
+https://shiptrack-black.vercel.app/
